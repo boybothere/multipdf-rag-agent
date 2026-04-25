@@ -1,0 +1,11 @@
+# Security
+.env
+
+# Virtual Environments (so you don't push thousands of library files)
+venv/
+env/
+.venv/
+
+# Python Cache (messy system files)
+__pycache__/
+*.pyc
